@@ -1,0 +1,925 @@
+{
+  "code": "Устав железнодорожного транспорта Российской Федерации",
+  "slug": "fz-18-2003",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "18-ФЗ",
+  "act_date": "2003-01-10",
+  "base_act": "Федеральный закон от 10.01.2003 № 18-ФЗ",
+  "redaction_date": "2026-09-01",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=ead029d911d506cb3cbda580d0fea893671c6068ca9cc1e5b0017128edb7f358&ttl=1",
+  "source_file": "sources/fz/fz-18-2003.html",
+  "articles_total": 135,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "Устав железнодорожного транспорта Российской Федерации",
+    "Принят Государственной Думой 24 декабря 2002 года",
+    "Одобрен Советом Федерации 27 декабря 2002 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "10 января 2003 года",
+    "№ 18-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "глава",
+      "number": "I",
+      "title": "ОБЩИЕ ПОЛОЖЕНИЯ",
+      "heading": "Глава I. ОБЩИЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "1",
+          "title": "",
+          "file": "st-001.json"
+        },
+        {
+          "unit": "статья",
+          "number": "2",
+          "title": "",
+          "file": "st-002.json"
+        },
+        {
+          "unit": "статья",
+          "number": "2.1",
+          "title": "",
+          "file": "st-002-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "3",
+          "title": "",
+          "file": "st-003.json"
+        },
+        {
+          "unit": "статья",
+          "number": "4",
+          "title": "",
+          "file": "st-004.json"
+        },
+        {
+          "unit": "статья",
+          "number": "5",
+          "title": "",
+          "file": "st-005.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6",
+          "title": "",
+          "file": "st-006.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7",
+          "title": "",
+          "file": "st-007.json"
+        },
+        {
+          "unit": "статья",
+          "number": "8",
+          "title": "",
+          "file": "st-008.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "II",
+      "title": "ПЕРЕВОЗКИ ГРУЗОВ, КОНТЕЙНЕРОВ И ПОВАГОННЫМИ ОТПРАВКАМИ ГРУЗОБАГАЖА",
+      "heading": "Глава II. ПЕРЕВОЗКИ ГРУЗОВ, КОНТЕЙНЕРОВ И ПОВАГОННЫМИ ОТПРАВКАМИ ГРУЗОБАГАЖА",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "9",
+          "title": "",
+          "file": "st-009.json"
+        },
+        {
+          "unit": "статья",
+          "number": "10",
+          "title": "",
+          "file": "st-010.json"
+        },
+        {
+          "unit": "статья",
+          "number": "11",
+          "title": "",
+          "file": "st-011.json"
+        },
+        {
+          "unit": "статья",
+          "number": "12",
+          "title": "",
+          "file": "st-012.json"
+        },
+        {
+          "unit": "статья",
+          "number": "13",
+          "title": "",
+          "file": "st-013.json"
+        },
+        {
+          "unit": "статья",
+          "number": "14",
+          "title": "",
+          "file": "st-014.json"
+        },
+        {
+          "unit": "статья",
+          "number": "15",
+          "title": "",
+          "file": "st-015.json"
+        },
+        {
+          "unit": "статья",
+          "number": "16",
+          "title": "",
+          "file": "st-016.json"
+        },
+        {
+          "unit": "статья",
+          "number": "17",
+          "title": "",
+          "file": "st-017.json"
+        },
+        {
+          "unit": "статья",
+          "number": "18",
+          "title": "",
+          "file": "st-018.json"
+        },
+        {
+          "unit": "статья",
+          "number": "19",
+          "title": "",
+          "file": "st-019.json"
+        },
+        {
+          "unit": "статья",
+          "number": "20",
+          "title": "",
+          "file": "st-020.json"
+        },
+        {
+          "unit": "статья",
+          "number": "21",
+          "title": "",
+          "file": "st-021.json"
+        },
+        {
+          "unit": "статья",
+          "number": "22",
+          "title": "",
+          "file": "st-022.json"
+        },
+        {
+          "unit": "статья",
+          "number": "23",
+          "title": "",
+          "file": "st-023.json"
+        },
+        {
+          "unit": "статья",
+          "number": "24",
+          "title": "",
+          "file": "st-024.json"
+        },
+        {
+          "unit": "статья",
+          "number": "25",
+          "title": "",
+          "file": "st-025.json"
+        },
+        {
+          "unit": "статья",
+          "number": "26",
+          "title": "",
+          "file": "st-026.json"
+        },
+        {
+          "unit": "статья",
+          "number": "27",
+          "title": "",
+          "file": "st-027.json"
+        },
+        {
+          "unit": "статья",
+          "number": "28",
+          "title": "",
+          "file": "st-028.json"
+        },
+        {
+          "unit": "статья",
+          "number": "29",
+          "title": "",
+          "file": "st-029.json"
+        },
+        {
+          "unit": "статья",
+          "number": "30",
+          "title": "",
+          "file": "st-030.json"
+        },
+        {
+          "unit": "статья",
+          "number": "31",
+          "title": "",
+          "file": "st-031.json"
+        },
+        {
+          "unit": "статья",
+          "number": "32",
+          "title": "",
+          "file": "st-032.json"
+        },
+        {
+          "unit": "статья",
+          "number": "33",
+          "title": "",
+          "file": "st-033.json"
+        },
+        {
+          "unit": "статья",
+          "number": "34",
+          "title": "",
+          "file": "st-034.json"
+        },
+        {
+          "unit": "статья",
+          "number": "35",
+          "title": "",
+          "file": "st-035.json"
+        },
+        {
+          "unit": "статья",
+          "number": "36",
+          "title": "",
+          "file": "st-036.json"
+        },
+        {
+          "unit": "статья",
+          "number": "37",
+          "title": "",
+          "file": "st-037.json"
+        },
+        {
+          "unit": "статья",
+          "number": "38",
+          "title": "",
+          "file": "st-038.json"
+        },
+        {
+          "unit": "статья",
+          "number": "39",
+          "title": "",
+          "file": "st-039.json"
+        },
+        {
+          "unit": "статья",
+          "number": "40",
+          "title": "",
+          "file": "st-040.json"
+        },
+        {
+          "unit": "статья",
+          "number": "41",
+          "title": "",
+          "file": "st-041.json"
+        },
+        {
+          "unit": "статья",
+          "number": "42",
+          "title": "",
+          "file": "st-042.json"
+        },
+        {
+          "unit": "статья",
+          "number": "43",
+          "title": "",
+          "file": "st-043.json"
+        },
+        {
+          "unit": "статья",
+          "number": "44",
+          "title": "",
+          "file": "st-044.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45",
+          "title": "",
+          "file": "st-045.json"
+        },
+        {
+          "unit": "статья",
+          "number": "46",
+          "title": "",
+          "file": "st-046.json"
+        },
+        {
+          "unit": "статья",
+          "number": "47",
+          "title": "",
+          "file": "st-047.json"
+        },
+        {
+          "unit": "статья",
+          "number": "48",
+          "title": "",
+          "file": "st-048.json"
+        },
+        {
+          "unit": "статья",
+          "number": "49",
+          "title": "",
+          "file": "st-049.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "III",
+      "title": "ВЗАИМОДЕЙСТВИЕ ВЛАДЕЛЬЦА ИНФРАСТРУКТУРЫ И ПЕРЕВОЗЧИКОВ ПРИ ПОДГОТОВКЕ И ОСУЩЕСТВЛЕНИИ ПЕРЕВОЗОК ПАССАЖИРОВ, ГРУЗОВ, БАГАЖА, ГРУЗОБАГАЖА",
+      "heading": "Глава III. ВЗАИМОДЕЙСТВИЕ ВЛАДЕЛЬЦА ИНФРАСТРУКТУРЫ И ПЕРЕВОЗЧИКОВ ПРИ ПОДГОТОВКЕ И ОСУЩЕСТВЛЕНИИ ПЕРЕВОЗОК ПАССАЖИРОВ, ГРУЗОВ, БАГАЖА, ГРУЗОБАГАЖА",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "50",
+          "title": "",
+          "file": "st-050.json"
+        },
+        {
+          "unit": "статья",
+          "number": "51",
+          "title": "",
+          "file": "st-051.json"
+        },
+        {
+          "unit": "статья",
+          "number": "52",
+          "title": "",
+          "file": "st-052.json"
+        },
+        {
+          "unit": "статья",
+          "number": "53",
+          "title": "",
+          "file": "st-053.json"
+        },
+        {
+          "unit": "статья",
+          "number": "54",
+          "title": "",
+          "file": "st-054.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IV",
+      "title": "ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ НЕОБЩЕГО ПОЛЬЗОВАНИЯ",
+      "heading": "Глава IV. ЖЕЛЕЗНОДОРОЖНЫЕ ПУТИ НЕОБЩЕГО ПОЛЬЗОВАНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "55",
+          "title": "",
+          "file": "st-055.json"
+        },
+        {
+          "unit": "статья",
+          "number": "56",
+          "title": "",
+          "file": "st-056.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57",
+          "title": "",
+          "file": "st-057.json"
+        },
+        {
+          "unit": "статья",
+          "number": "58",
+          "title": "",
+          "file": "st-058.json"
+        },
+        {
+          "unit": "статья",
+          "number": "59",
+          "title": "",
+          "file": "st-059.json"
+        },
+        {
+          "unit": "статья",
+          "number": "60",
+          "title": "",
+          "file": "st-060.json"
+        },
+        {
+          "unit": "статья",
+          "number": "61",
+          "title": "",
+          "file": "st-061.json"
+        },
+        {
+          "unit": "статья",
+          "number": "62",
+          "title": "",
+          "file": "st-062.json"
+        },
+        {
+          "unit": "статья",
+          "number": "63",
+          "title": "",
+          "file": "st-063.json"
+        },
+        {
+          "unit": "статья",
+          "number": "64",
+          "title": "",
+          "file": "st-064.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "V",
+      "title": "ПЕРЕВОЗКИ ГРУЗОВ В ПРЯМОМ СМЕШАННОМ СООБЩЕНИИ",
+      "heading": "Глава V. ПЕРЕВОЗКИ ГРУЗОВ В ПРЯМОМ СМЕШАННОМ СООБЩЕНИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "65",
+          "title": "",
+          "file": "st-065.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "66",
+          "title": "",
+          "file": "st-066.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "67",
+          "title": "",
+          "file": "st-067.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "68",
+          "title": "",
+          "file": "st-068.json"
+        },
+        {
+          "unit": "статья",
+          "number": "69",
+          "title": "",
+          "file": "st-069.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "70",
+          "title": "",
+          "file": "st-070.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "71",
+          "title": "",
+          "file": "st-071.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "72",
+          "title": "",
+          "file": "st-072.json"
+        },
+        {
+          "unit": "статья",
+          "number": "73",
+          "title": "",
+          "file": "st-073.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "74",
+          "title": "",
+          "file": "st-074.json"
+        },
+        {
+          "unit": "статья",
+          "number": "75",
+          "title": "",
+          "file": "st-075.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "76",
+          "title": "",
+          "file": "st-076.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "77",
+          "title": "",
+          "file": "st-077.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "78",
+          "title": "",
+          "file": "st-078.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "79",
+          "title": "",
+          "file": "st-079.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "79.1",
+          "title": "",
+          "file": "st-079-1.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VI",
+      "title": "ПЕРЕВОЗКИ ПАССАЖИРОВ, БАГАЖА, ГРУЗОБАГАЖА",
+      "heading": "Глава VI. ПЕРЕВОЗКИ ПАССАЖИРОВ, БАГАЖА, ГРУЗОБАГАЖА",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "80",
+          "title": "",
+          "file": "st-080.json"
+        },
+        {
+          "unit": "статья",
+          "number": "80.1",
+          "title": "",
+          "file": "st-080-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "81",
+          "title": "",
+          "file": "st-081.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82",
+          "title": "",
+          "file": "st-082.json"
+        },
+        {
+          "unit": "статья",
+          "number": "83",
+          "title": "",
+          "file": "st-083.json"
+        },
+        {
+          "unit": "статья",
+          "number": "84",
+          "title": "",
+          "file": "st-084.json"
+        },
+        {
+          "unit": "статья",
+          "number": "85",
+          "title": "",
+          "file": "st-085.json"
+        },
+        {
+          "unit": "статья",
+          "number": "86",
+          "title": "",
+          "file": "st-086.json"
+        },
+        {
+          "unit": "статья",
+          "number": "87",
+          "title": "",
+          "file": "st-087.json"
+        },
+        {
+          "unit": "статья",
+          "number": "88",
+          "title": "",
+          "file": "st-088.json"
+        },
+        {
+          "unit": "статья",
+          "number": "89",
+          "title": "",
+          "file": "st-089.json"
+        },
+        {
+          "unit": "статья",
+          "number": "90",
+          "title": "",
+          "file": "st-090.json"
+        },
+        {
+          "unit": "статья",
+          "number": "91",
+          "title": "",
+          "file": "st-091.json"
+        },
+        {
+          "unit": "статья",
+          "number": "92",
+          "title": "",
+          "file": "st-092.json"
+        },
+        {
+          "unit": "статья",
+          "number": "93",
+          "title": "",
+          "file": "st-093.json"
+        },
+        {
+          "unit": "статья",
+          "number": "93.1",
+          "title": "",
+          "file": "st-093-1.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VII",
+      "title": "ОТВЕТСТВЕННОСТЬ ПЕРЕВОЗЧИКОВ, ВЛАДЕЛЬЦЕВ ИНФРАСТРУКТУР, ГРУЗООТПРАВИТЕЛЕЙ (ОТПРАВИТЕЛЕЙ), ГРУЗОПОЛУЧАТЕЛЕЙ (ПОЛУЧАТЕЛЕЙ), ПАССАЖИРОВ, ОПЕРАТОРОВ МОРСКИХ ТЕРМИНАЛОВ",
+      "heading": "Глава VII. ОТВЕТСТВЕННОСТЬ ПЕРЕВОЗЧИКОВ, ВЛАДЕЛЬЦЕВ ИНФРАСТРУКТУР, ГРУЗООТПРАВИТЕЛЕЙ (ОТПРАВИТЕЛЕЙ), ГРУЗОПОЛУЧАТЕЛЕЙ (ПОЛУЧАТЕЛЕЙ), ПАССАЖИРОВ, ОПЕРАТОРОВ МОРСКИХ ТЕРМИНАЛОВ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "94",
+          "title": "",
+          "file": "st-094.json"
+        },
+        {
+          "unit": "статья",
+          "number": "95",
+          "title": "",
+          "file": "st-095.json"
+        },
+        {
+          "unit": "статья",
+          "number": "96",
+          "title": "",
+          "file": "st-096.json"
+        },
+        {
+          "unit": "статья",
+          "number": "97",
+          "title": "",
+          "file": "st-097.json"
+        },
+        {
+          "unit": "статья",
+          "number": "98",
+          "title": "",
+          "file": "st-098.json"
+        },
+        {
+          "unit": "статья",
+          "number": "99",
+          "title": "",
+          "file": "st-099.json"
+        },
+        {
+          "unit": "статья",
+          "number": "100",
+          "title": "",
+          "file": "st-100.json"
+        },
+        {
+          "unit": "статья",
+          "number": "101",
+          "title": "",
+          "file": "st-101.json"
+        },
+        {
+          "unit": "статья",
+          "number": "102",
+          "title": "",
+          "file": "st-102.json"
+        },
+        {
+          "unit": "статья",
+          "number": "103",
+          "title": "",
+          "file": "st-103.json"
+        },
+        {
+          "unit": "статья",
+          "number": "104",
+          "title": "",
+          "file": "st-104.json"
+        },
+        {
+          "unit": "статья",
+          "number": "105",
+          "title": "",
+          "file": "st-105.json"
+        },
+        {
+          "unit": "статья",
+          "number": "106",
+          "title": "",
+          "file": "st-106.json"
+        },
+        {
+          "unit": "статья",
+          "number": "107",
+          "title": "",
+          "file": "st-107.json"
+        },
+        {
+          "unit": "статья",
+          "number": "108",
+          "title": "",
+          "file": "st-108.json"
+        },
+        {
+          "unit": "статья",
+          "number": "109",
+          "title": "",
+          "file": "st-109.json"
+        },
+        {
+          "unit": "статья",
+          "number": "110",
+          "title": "",
+          "file": "st-110.json"
+        },
+        {
+          "unit": "статья",
+          "number": "110.1",
+          "title": "",
+          "file": "st-110-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "111",
+          "title": "",
+          "file": "st-111.json"
+        },
+        {
+          "unit": "статья",
+          "number": "112",
+          "title": "",
+          "file": "st-112.json"
+        },
+        {
+          "unit": "статья",
+          "number": "113",
+          "title": "",
+          "file": "st-113.json"
+        },
+        {
+          "unit": "статья",
+          "number": "114",
+          "title": "",
+          "file": "st-114.json"
+        },
+        {
+          "unit": "статья",
+          "number": "115",
+          "title": "",
+          "file": "st-115.json"
+        },
+        {
+          "unit": "статья",
+          "number": "116",
+          "title": "",
+          "file": "st-116.json"
+        },
+        {
+          "unit": "статья",
+          "number": "117",
+          "title": "",
+          "file": "st-117.json"
+        },
+        {
+          "unit": "статья",
+          "number": "118",
+          "title": "",
+          "file": "st-118.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VIII",
+      "title": "АКТЫ, ПРЕТЕНЗИИ, ИСКИ",
+      "heading": "Глава VIII. АКТЫ, ПРЕТЕНЗИИ, ИСКИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "119",
+          "title": "",
+          "file": "st-119.json"
+        },
+        {
+          "unit": "статья",
+          "number": "120",
+          "title": "",
+          "file": "st-120.json"
+        },
+        {
+          "unit": "статья",
+          "number": "121",
+          "title": "",
+          "file": "st-121.json"
+        },
+        {
+          "unit": "статья",
+          "number": "122",
+          "title": "",
+          "file": "st-122.json"
+        },
+        {
+          "unit": "статья",
+          "number": "123",
+          "title": "",
+          "file": "st-123.json"
+        },
+        {
+          "unit": "статья",
+          "number": "124",
+          "title": "",
+          "file": "st-124.json"
+        },
+        {
+          "unit": "статья",
+          "number": "125",
+          "title": "",
+          "file": "st-125.json"
+        },
+        {
+          "unit": "статья",
+          "number": "126",
+          "title": "",
+          "file": "st-126.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IX",
+      "title": "ЗАКЛЮЧИТЕЛЬНЫЕ И ПЕРЕХОДНЫЕ ПОЛОЖЕНИЯ",
+      "heading": "Глава IX. ЗАКЛЮЧИТЕЛЬНЫЕ И ПЕРЕХОДНЫЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "127",
+          "title": "",
+          "file": "st-127.json"
+        },
+        {
+          "unit": "статья",
+          "number": "128",
+          "title": "",
+          "file": "st-128.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "129",
+          "title": "",
+          "file": "st-129.json"
+        },
+        {
+          "unit": "статья",
+          "number": "130",
+          "title": "",
+          "file": "st-130.json"
+        }
+      ]
+    }
+  ]
+}

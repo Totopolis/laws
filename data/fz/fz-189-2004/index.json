@@ -1,0 +1,214 @@
+{
+  "code": "О введении в действие Жилищного кодекса Российской Федерации",
+  "slug": "fz-189-2004",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "189-ФЗ",
+  "act_date": "2004-12-29",
+  "base_act": "Федеральный закон от 29.12.2004 № 189-ФЗ",
+  "redaction_date": "2026-08-04",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=3859cf4407d29f8886a010b9daad104f2dd730eb669677687c706854a97742bc&ttl=1",
+  "source_file": "sources/fz/fz-189-2004.html",
+  "articles_total": 30,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О введении в действие Жилищного кодекса Российской Федерации",
+    "Принят Государственной Думой 22 декабря 2004 года",
+    "Одобрен Советом Федерации 24 декабря 2004 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "29 декабря 2004 года",
+    "№ 189-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5.1",
+      "title": "",
+      "file": "st-005-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json"
+    },
+    {
+      "unit": "статья",
+      "number": "12",
+      "title": "",
+      "file": "st-012.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13",
+      "title": "",
+      "file": "st-013.json"
+    },
+    {
+      "unit": "статья",
+      "number": "14",
+      "title": "",
+      "file": "st-014.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "15",
+      "title": "",
+      "file": "st-015.json"
+    },
+    {
+      "unit": "статья",
+      "number": "16",
+      "title": "",
+      "file": "st-016.json"
+    },
+    {
+      "unit": "статья",
+      "number": "17",
+      "title": "",
+      "file": "st-017.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "18",
+      "title": "",
+      "file": "st-018.json"
+    },
+    {
+      "unit": "статья",
+      "number": "19",
+      "title": "",
+      "file": "st-019.json"
+    },
+    {
+      "unit": "статья",
+      "number": "20",
+      "title": "",
+      "file": "st-020.json"
+    },
+    {
+      "unit": "статья",
+      "number": "21",
+      "title": "",
+      "file": "st-021.json"
+    },
+    {
+      "unit": "статья",
+      "number": "22",
+      "title": "",
+      "file": "st-022.json"
+    },
+    {
+      "unit": "статья",
+      "number": "23",
+      "title": "",
+      "file": "st-023.json"
+    },
+    {
+      "unit": "статья",
+      "number": "24",
+      "title": "",
+      "file": "st-024.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "25",
+      "title": "",
+      "file": "st-025.json"
+    },
+    {
+      "unit": "статья",
+      "number": "26",
+      "title": "",
+      "file": "st-026.json"
+    },
+    {
+      "unit": "статья",
+      "number": "27",
+      "title": "",
+      "file": "st-027.json"
+    },
+    {
+      "unit": "статья",
+      "number": "28",
+      "title": "",
+      "file": "st-028.json"
+    },
+    {
+      "unit": "статья",
+      "number": "29",
+      "title": "",
+      "file": "st-029.json"
+    }
+  ]
+}

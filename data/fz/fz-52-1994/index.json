@@ -1,0 +1,198 @@
+{
+  "code": "О введении в действие части первой Гражданского кодекса Российской Федерации",
+  "slug": "fz-52-1994",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "52-ФЗ",
+  "act_date": "1994-11-30",
+  "base_act": "Федеральный закон от 30.11.1994 № 52-ФЗ",
+  "redaction_date": "2026-08-04",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=4c084acf59536a3fe0b0f89ccd9231e30586b5ebbc6ffc9ad88d19408096cb41&ttl=1",
+  "source_file": "sources/fz/fz-52-1994.html",
+  "articles_total": 28,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О введении в действие части первой Гражданского кодексаРоссийской Федерации",
+    "Принят Государственной Думой 21 октября 1994 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации Б.Ельцин",
+    "Москва, Кремль",
+    "30 ноября 1994 года",
+    "№ 52-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8.1",
+      "title": "",
+      "file": "st-008-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json"
+    },
+    {
+      "unit": "статья",
+      "number": "12",
+      "title": "",
+      "file": "st-012.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13",
+      "title": "",
+      "file": "st-013.json"
+    },
+    {
+      "unit": "статья",
+      "number": "14",
+      "title": "",
+      "file": "st-014.json"
+    },
+    {
+      "unit": "статья",
+      "number": "15",
+      "title": "",
+      "file": "st-015.json"
+    },
+    {
+      "unit": "статья",
+      "number": "16",
+      "title": "",
+      "file": "st-016.json"
+    },
+    {
+      "unit": "статья",
+      "number": "17",
+      "title": "",
+      "file": "st-017.json"
+    },
+    {
+      "unit": "статья",
+      "number": "18",
+      "title": "",
+      "file": "st-018.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "19",
+      "title": "",
+      "file": "st-019.json"
+    },
+    {
+      "unit": "статья",
+      "number": "19.1",
+      "title": "",
+      "file": "st-019-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "20",
+      "title": "",
+      "file": "st-020.json"
+    },
+    {
+      "unit": "статья",
+      "number": "21",
+      "title": "",
+      "file": "st-021.json"
+    },
+    {
+      "unit": "статья",
+      "number": "21.1",
+      "title": "",
+      "file": "st-021-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "22",
+      "title": "",
+      "file": "st-022.json"
+    },
+    {
+      "unit": "статья",
+      "number": "23",
+      "title": "",
+      "file": "st-023.json"
+    },
+    {
+      "unit": "статья",
+      "number": "24",
+      "title": "",
+      "file": "st-024.json"
+    },
+    {
+      "unit": "статья",
+      "number": "25",
+      "title": "",
+      "file": "st-025.json"
+    }
+  ]
+}
