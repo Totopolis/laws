@@ -1,0 +1,12 @@
+# Обёртки для Linux/macOS обязаны остаться с LF: с CRLF шебанг ломается
+# и оболочка отвечает «bad interpreter».
+dist/laws   text eol=lf
+dist/setup  text eol=lf
+*.sh        text eol=lf
+
+# Пакетные файлы Windows, наоборот, требуют CRLF
+*.cmd       text eol=crlf
+*.bat       text eol=crlf
+
+# Файлы индекса — двоичные: нормализация переводов строк их испортит
+*.lance binary

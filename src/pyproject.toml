@@ -1,0 +1,29 @@
+[project]
+name = "laws-mcp"
+version = "0.1.0"
+description = "MCP-поиск по кодексам РФ: Qwen3-Embedding + LanceDB, гибрид dense/BM25"
+requires-python = ">=3.11"
+# рантайм: только CPU, без torch — модель считается через onnxruntime
+dependencies = [
+    "mcp>=1.2",
+    "lancedb>=0.37",
+    "pyarrow>=17",
+    "numpy>=1.26",
+    "onnxruntime>=1.20",
+    "tokenizers>=0.20",
+]
+
+[project.optional-dependencies]
+# нужно только для построения индекса на GPU
+index = ["torch>=2.4", "sentence-transformers>=5", "huggingface_hub>=0.30"]
+
+[project.scripts]
+laws-mcp = "laws_mcp.server:main"
+laws-index = "laws_mcp.index:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["laws_mcp*"]

@@ -1,0 +1,126 @@
+{
+  "code": "О конкуренции и ограничении монополистической деятельности на товарных рынках",
+  "slug": "zakon-rsfsr-948-1-1991",
+  "kind": "fz",
+  "act_kind": "Закон РСФСР",
+  "act_number": "948-I",
+  "act_date": "1991-03-22",
+  "base_act": "Закон РСФСР от 22.03.1991 № 948-I",
+  "redaction_date": "2025-07-31",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=d43e0fcf093f6cd55a82e0b6a766f60b27cf86771aa16545163180be7eb2f4bc&ttl=1",
+  "source_file": "sources/fz/zakon-rsfsr-948-1-1991.html",
+  "articles_total": 5,
+  "preamble": [
+    "ЗАКОН",
+    "РОССИЙСКОЙ СОВЕТСКОЙ ФЕДЕРАТИВНОЙ СОЦИАЛИСТИЧЕСКОЙ РЕСПУБЛИКИ",
+    "О конкуренции и ограничении монополистической деятельности на товарных рынках"
+  ],
+  "content": [],
+  "closing": [
+    "Первый заместитель ПредседателяВерховного Совета РСФСР Р.И.Хасбулатов",
+    "Москва, Дом Советов РСФСР",
+    "22 марта 1991 года",
+    "№ 948-I"
+  ],
+  "structure": [
+    {
+      "unit": "раздел",
+      "number": "I",
+      "title": "ОБЩИЕ ПОЛОЖЕНИЯ",
+      "heading": "Раздел I ОБЩИЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "1",
+          "title": "",
+          "file": "st-001.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "1.1",
+          "title": "",
+          "file": "st-001-1.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "2",
+          "title": "",
+          "file": "st-002.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "3",
+          "title": "",
+          "file": "st-003.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "4",
+          "title": "Определение основных понятий",
+          "file": "st-004.json"
+        }
+      ]
+    },
+    {
+      "unit": "раздел",
+      "number": "II",
+      "title": "",
+      "heading": "Раздел II",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "II",
+      "title": "1",
+      "heading": "Раздел II1",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "III",
+      "title": "",
+      "heading": "Раздел III",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "IV",
+      "title": "",
+      "heading": "Раздел IV",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "V",
+      "title": "",
+      "heading": "Раздел V",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "VI",
+      "title": "",
+      "heading": "Раздел VI",
+      "status": "утратил силу",
+      "children": []
+    },
+    {
+      "unit": "раздел",
+      "number": "VII",
+      "title": "",
+      "heading": "Раздел VII",
+      "status": "утратил силу",
+      "children": []
+    }
+  ]
+}

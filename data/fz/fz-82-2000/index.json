@@ -1,0 +1,84 @@
+{
+  "code": "О минимальном размере оплаты труда",
+  "slug": "fz-82-2000",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "82-ФЗ",
+  "act_date": "2000-06-19",
+  "base_act": "Федеральный закон от 19.06.2000 № 82-ФЗ",
+  "redaction_date": "2025-12-09",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=d9c7273d0ace67cc1c55bda64304406d9cecefbf09956c82b7e34c3272fd22d7&ttl=1",
+  "source_file": "sources/fz/fz-82-2000.html",
+  "articles_total": 9,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О минимальном размере оплаты труда",
+    "Принят Государственной Думой 2 июня 2000 года",
+    "Одобрен Советом Федерации 7 июня 2000 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "19 июня 2000 года",
+    "№ 82-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    }
+  ]
+}

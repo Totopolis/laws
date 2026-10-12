@@ -1,0 +1,78 @@
+{
+  "code": "О Договоре о всеобъемлющем запрещении ядерных испытаний",
+  "slug": "fz-72-2000",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "72-ФЗ",
+  "act_date": "2000-05-27",
+  "base_act": "Федеральный закон от 27.05.2000 № 72-ФЗ",
+  "redaction_date": "2023-11-02",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=6cae6208c0c62d38543418504d28f697dc870409797f9d63ea03523a5eae6088&ttl=1",
+  "source_file": "sources/fz/fz-72-2000.html",
+  "articles_total": 8,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О Договоре о всеобъемлющем запрещении ядерных испытаний",
+    "Принят Государственной Думой 21 апреля 2000 года",
+    "Одобрен Советом Федерации 17 мая 2000 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "27 мая 2000 года",
+    "№ 72-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# Поиск по кодексам: ./laws "вопрос" [ещё вопрос ...]
+# Обёртка нужна, чтобы не набирать каждый раз PYTHONPATH и путь к интерпретатору.
+cd "$(dirname "$0")" || exit 1
+PYTHONPATH=src LAWS_ROOT=. exec .venv/bin/python -m laws_mcp.cli "$@"

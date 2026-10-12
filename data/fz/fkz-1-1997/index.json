@@ -1,0 +1,354 @@
+{
+  "code": "Об Уполномоченном по правам человека в Российской Федерации",
+  "slug": "fkz-1-1997",
+  "kind": "fz",
+  "act_kind": "Федеральный конституционный закон",
+  "act_number": "1-ФКЗ",
+  "act_date": "1997-02-26",
+  "base_act": "Федеральный конституционный закон от 26.02.1997 № 1-ФКЗ",
+  "redaction_date": "2023-06-09",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=10f011a0ff7b106b61f440f35d4614a9859c73654372a2870ccff9bc0d0aecce&ttl=1",
+  "source_file": "sources/fz/fkz-1-1997.html",
+  "articles_total": 47,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ КОНСТИТУЦИОННЫЙ ЗАКОН",
+    "Об Уполномоченном по правам человека в Российской Федерации",
+    "Принят Государственной Думой 25 декабря 1996 года",
+    "Одобрен Советом Федерации 12 февраля 1997 года",
+    "Настоящий Федеральный конституционный закон определяет порядок назначения на должность и освобождения от должности Уполномоченного по правам человека в Российской Федерации, его компетенцию, организационные формы и условия его деятельности."
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации Б.Ельцин",
+    "Москва, Кремль",
+    "26 февраля 1997 года",
+    "№ 1-ФКЗ"
+  ],
+  "structure": [
+    {
+      "unit": "глава",
+      "number": "I",
+      "title": "Общие положения",
+      "heading": "ГЛАВА I. Общие положения",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "1",
+          "title": "",
+          "file": "st-001.json"
+        },
+        {
+          "unit": "статья",
+          "number": "2",
+          "title": "",
+          "file": "st-002.json"
+        },
+        {
+          "unit": "статья",
+          "number": "3",
+          "title": "",
+          "file": "st-003.json"
+        },
+        {
+          "unit": "статья",
+          "number": "4",
+          "title": "",
+          "file": "st-004.json"
+        },
+        {
+          "unit": "статья",
+          "number": "5",
+          "title": "",
+          "file": "st-005.json",
+          "status": "утратила силу"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "II",
+      "title": "Порядок назначения на должность и освобождения от должности Уполномоченного",
+      "heading": "ГЛАВА II. Порядок назначения на должность и освобождения от должности Уполномоченного",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "6",
+          "title": "",
+          "file": "st-006.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7",
+          "title": "",
+          "file": "st-007.json"
+        },
+        {
+          "unit": "статья",
+          "number": "8",
+          "title": "",
+          "file": "st-008.json"
+        },
+        {
+          "unit": "статья",
+          "number": "9",
+          "title": "",
+          "file": "st-009.json"
+        },
+        {
+          "unit": "статья",
+          "number": "10",
+          "title": "",
+          "file": "st-010.json"
+        },
+        {
+          "unit": "статья",
+          "number": "11",
+          "title": "",
+          "file": "st-011.json"
+        },
+        {
+          "unit": "статья",
+          "number": "11.1",
+          "title": "",
+          "file": "st-011-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "12",
+          "title": "",
+          "file": "st-012.json"
+        },
+        {
+          "unit": "статья",
+          "number": "13",
+          "title": "",
+          "file": "st-013.json"
+        },
+        {
+          "unit": "статья",
+          "number": "14",
+          "title": "",
+          "file": "st-014.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "III",
+      "title": "Компетенция Уполномоченного",
+      "heading": "ГЛАВА III. Компетенция Уполномоченного",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "15",
+          "title": "",
+          "file": "st-015.json"
+        },
+        {
+          "unit": "статья",
+          "number": "16",
+          "title": "",
+          "file": "st-016.json"
+        },
+        {
+          "unit": "статья",
+          "number": "17",
+          "title": "",
+          "file": "st-017.json"
+        },
+        {
+          "unit": "статья",
+          "number": "18",
+          "title": "",
+          "file": "st-018.json"
+        },
+        {
+          "unit": "статья",
+          "number": "19",
+          "title": "",
+          "file": "st-019.json"
+        },
+        {
+          "unit": "статья",
+          "number": "20",
+          "title": "",
+          "file": "st-020.json"
+        },
+        {
+          "unit": "статья",
+          "number": "21",
+          "title": "",
+          "file": "st-021.json"
+        },
+        {
+          "unit": "статья",
+          "number": "22",
+          "title": "",
+          "file": "st-022.json"
+        },
+        {
+          "unit": "статья",
+          "number": "23",
+          "title": "",
+          "file": "st-023.json"
+        },
+        {
+          "unit": "статья",
+          "number": "24",
+          "title": "",
+          "file": "st-024.json"
+        },
+        {
+          "unit": "статья",
+          "number": "25",
+          "title": "",
+          "file": "st-025.json"
+        },
+        {
+          "unit": "статья",
+          "number": "26",
+          "title": "",
+          "file": "st-026.json"
+        },
+        {
+          "unit": "статья",
+          "number": "27",
+          "title": "",
+          "file": "st-027.json"
+        },
+        {
+          "unit": "статья",
+          "number": "28",
+          "title": "",
+          "file": "st-028.json"
+        },
+        {
+          "unit": "статья",
+          "number": "29",
+          "title": "",
+          "file": "st-029.json"
+        },
+        {
+          "unit": "статья",
+          "number": "30",
+          "title": "",
+          "file": "st-030.json"
+        },
+        {
+          "unit": "статья",
+          "number": "31",
+          "title": "",
+          "file": "st-031.json"
+        },
+        {
+          "unit": "статья",
+          "number": "32",
+          "title": "",
+          "file": "st-032.json"
+        },
+        {
+          "unit": "статья",
+          "number": "33",
+          "title": "",
+          "file": "st-033.json"
+        },
+        {
+          "unit": "статья",
+          "number": "34",
+          "title": "",
+          "file": "st-034.json"
+        },
+        {
+          "unit": "статья",
+          "number": "35",
+          "title": "",
+          "file": "st-035.json"
+        },
+        {
+          "unit": "статья",
+          "number": "36",
+          "title": "",
+          "file": "st-036.json"
+        },
+        {
+          "unit": "статья",
+          "number": "36.1",
+          "title": "",
+          "file": "st-036-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "36.2",
+          "title": "",
+          "file": "st-036-2.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IV",
+      "title": "Аппарат Уполномоченного",
+      "heading": "ГЛАВА IV. Аппарат Уполномоченного",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "37",
+          "title": "",
+          "file": "st-037.json"
+        },
+        {
+          "unit": "статья",
+          "number": "38",
+          "title": "",
+          "file": "st-038.json"
+        },
+        {
+          "unit": "статья",
+          "number": "39",
+          "title": "",
+          "file": "st-039.json"
+        },
+        {
+          "unit": "статья",
+          "number": "40",
+          "title": "",
+          "file": "st-040.json"
+        },
+        {
+          "unit": "статья",
+          "number": "41",
+          "title": "",
+          "file": "st-041.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "V",
+      "title": "Заключительные положения",
+      "heading": "ГЛАВА V. Заключительные положения",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "42",
+          "title": "",
+          "file": "st-042.json"
+        },
+        {
+          "unit": "статья",
+          "number": "43",
+          "title": "",
+          "file": "st-043.json"
+        },
+        {
+          "unit": "статья",
+          "number": "44",
+          "title": "",
+          "file": "st-044.json"
+        }
+      ]
+    }
+  ]
+}

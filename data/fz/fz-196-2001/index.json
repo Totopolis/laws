@@ -1,0 +1,126 @@
+{
+  "code": "О введении в действие Кодекса Российской Федерации об административных правонарушениях",
+  "slug": "fz-196-2001",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "196-ФЗ",
+  "act_date": "2001-12-30",
+  "base_act": "Федеральный закон от 30.12.2001 № 196-ФЗ",
+  "redaction_date": "2025-07-01",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=7415d25da69b878a8fa00b32e56c3667e050006f8bfeac3d76312b2c40fff3db&ttl=1",
+  "source_file": "sources/fz/fz-196-2001.html",
+  "articles_total": 16,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О введении в действие Кодекса Российской Федерации об административных правонарушениях",
+    "Принят Государственной Думой 20 декабря 2001 года",
+    "Одобрен Советом Федерации 26 декабря 2001 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "30 декабря 2001 года",
+    "№ 196-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "1.1",
+      "title": "",
+      "file": "st-001-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "1.2",
+      "title": "",
+      "file": "st-001-2.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5.1",
+      "title": "",
+      "file": "st-005-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5.2",
+      "title": "",
+      "file": "st-005-2.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.1",
+      "title": "",
+      "file": "st-006-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.2",
+      "title": "",
+      "file": "st-006-2.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.3",
+      "title": "",
+      "file": "st-006-3.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    }
+  ]
+}

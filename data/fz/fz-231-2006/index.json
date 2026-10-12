@@ -1,0 +1,262 @@
+{
+  "code": "О введении в действие части четвертой Гражданского кодекса Российской Федерации",
+  "slug": "fz-231-2006",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "231-ФЗ",
+  "act_date": "2006-12-18",
+  "base_act": "Федеральный закон от 18.12.2006 № 231-ФЗ",
+  "redaction_date": "2026-03-23",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=3d2f8b6473aa13cabc34578d421d21532b5fda781a5eb6809b912bd3a3c42d9e&ttl=1",
+  "source_file": "sources/fz/fz-231-2006.html",
+  "articles_total": 38,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О введении в действие части четвертой Гражданского кодекса Российской Федерации",
+    "Принят Государственной Думой 24 ноября 2006 года",
+    "Одобрен Советом Федерации 8 декабря 2006 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "18 декабря 2006 года",
+    "№ 231-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json"
+    },
+    {
+      "unit": "статья",
+      "number": "12",
+      "title": "",
+      "file": "st-012.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "13",
+      "title": "",
+      "file": "st-013.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13.1",
+      "title": "",
+      "file": "st-013-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13.2",
+      "title": "",
+      "file": "st-013-2.json"
+    },
+    {
+      "unit": "статья",
+      "number": "14",
+      "title": "",
+      "file": "st-014.json"
+    },
+    {
+      "unit": "статья",
+      "number": "15",
+      "title": "",
+      "file": "st-015.json"
+    },
+    {
+      "unit": "статья",
+      "number": "16",
+      "title": "",
+      "file": "st-016.json"
+    },
+    {
+      "unit": "статья",
+      "number": "17",
+      "title": "",
+      "file": "st-017.json"
+    },
+    {
+      "unit": "статья",
+      "number": "18",
+      "title": "",
+      "file": "st-018.json"
+    },
+    {
+      "unit": "статья",
+      "number": "19",
+      "title": "",
+      "file": "st-019.json"
+    },
+    {
+      "unit": "статья",
+      "number": "20",
+      "title": "",
+      "file": "st-020.json"
+    },
+    {
+      "unit": "статья",
+      "number": "21",
+      "title": "",
+      "file": "st-021.json"
+    },
+    {
+      "unit": "статья",
+      "number": "22",
+      "title": "",
+      "file": "st-022.json"
+    },
+    {
+      "unit": "статья",
+      "number": "23",
+      "title": "",
+      "file": "st-023.json"
+    },
+    {
+      "unit": "статья",
+      "number": "24",
+      "title": "",
+      "file": "st-024.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "25",
+      "title": "",
+      "file": "st-025.json"
+    },
+    {
+      "unit": "статья",
+      "number": "26",
+      "title": "",
+      "file": "st-026.json"
+    },
+    {
+      "unit": "статья",
+      "number": "27",
+      "title": "",
+      "file": "st-027.json"
+    },
+    {
+      "unit": "статья",
+      "number": "28",
+      "title": "",
+      "file": "st-028.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "29",
+      "title": "",
+      "file": "st-029.json"
+    },
+    {
+      "unit": "статья",
+      "number": "30",
+      "title": "",
+      "file": "st-030.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "31",
+      "title": "",
+      "file": "st-031.json"
+    },
+    {
+      "unit": "статья",
+      "number": "32",
+      "title": "",
+      "file": "st-032.json"
+    },
+    {
+      "unit": "статья",
+      "number": "33",
+      "title": "",
+      "file": "st-033.json"
+    },
+    {
+      "unit": "статья",
+      "number": "34",
+      "title": "",
+      "file": "st-034.json"
+    },
+    {
+      "unit": "статья",
+      "number": "35",
+      "title": "",
+      "file": "st-035.json"
+    },
+    {
+      "unit": "статья",
+      "number": "36",
+      "title": "",
+      "file": "st-036.json"
+    }
+  ]
+}

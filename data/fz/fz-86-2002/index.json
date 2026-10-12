@@ -1,0 +1,1395 @@
+{
+  "code": "О Центральном банке Российской Федерации (Банке России)",
+  "slug": "fz-86-2002",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "86-ФЗ",
+  "act_date": "2002-07-10",
+  "base_act": "Федеральный закон от 10.07.2002 № 86-ФЗ",
+  "redaction_date": "2026-09-01",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=4b45226f8b7247cba53e09645d7acc83e6dd8ada0a47475037ee4409b175e9df&ttl=1",
+  "source_file": "sources/fz/fz-86-2002.html",
+  "articles_total": 195,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О Центральном банке Российской Федерации (Банке России)",
+    "Принят Государственной Думой 27 июня 2002 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "10 июля 2002 года",
+    "№ 86-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "глава",
+      "number": "I",
+      "title": "ОБЩИЕ ПОЛОЖЕНИЯ",
+      "heading": "ГЛАВА I. ОБЩИЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "1",
+          "title": "",
+          "file": "st-001.json"
+        },
+        {
+          "unit": "статья",
+          "number": "2",
+          "title": "",
+          "file": "st-002.json"
+        },
+        {
+          "unit": "статья",
+          "number": "3",
+          "title": "",
+          "file": "st-003.json"
+        },
+        {
+          "unit": "статья",
+          "number": "4",
+          "title": "",
+          "file": "st-004.json"
+        },
+        {
+          "unit": "статья",
+          "number": "4.1",
+          "title": "",
+          "file": "st-004-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "5",
+          "title": "",
+          "file": "st-005.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6",
+          "title": "",
+          "file": "st-006.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6.1",
+          "title": "",
+          "file": "st-006-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6.2",
+          "title": "",
+          "file": "st-006-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7",
+          "title": "",
+          "file": "st-007.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7.1",
+          "title": "",
+          "file": "st-007-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "8",
+          "title": "",
+          "file": "st-008.json"
+        },
+        {
+          "unit": "статья",
+          "number": "9",
+          "title": "",
+          "file": "st-009.json"
+        },
+        {
+          "unit": "статья",
+          "number": "9.1",
+          "title": "",
+          "file": "st-009-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "9.2",
+          "title": "",
+          "file": "st-009-2.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "II",
+      "title": "КАПИТАЛ БАНКА РОССИИ",
+      "heading": "ГЛАВА II. КАПИТАЛ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "10",
+          "title": "",
+          "file": "st-010.json"
+        },
+        {
+          "unit": "статья",
+          "number": "11",
+          "title": "",
+          "file": "st-011.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "III",
+      "title": "НАЦИОНАЛЬНЫЙ ФИНАНСОВЫЙ СОВЕТ И ОРГАНЫ УПРАВЛЕНИЯ БАНКОМ РОССИИ",
+      "heading": "ГЛАВА III. НАЦИОНАЛЬНЫЙ ФИНАНСОВЫЙ СОВЕТ И ОРГАНЫ УПРАВЛЕНИЯ БАНКОМ РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "12",
+          "title": "",
+          "file": "st-012.json"
+        },
+        {
+          "unit": "статья",
+          "number": "13",
+          "title": "",
+          "file": "st-013.json"
+        },
+        {
+          "unit": "статья",
+          "number": "14",
+          "title": "",
+          "file": "st-014.json"
+        },
+        {
+          "unit": "статья",
+          "number": "15",
+          "title": "",
+          "file": "st-015.json"
+        },
+        {
+          "unit": "статья",
+          "number": "15.1",
+          "title": "",
+          "file": "st-015-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "16",
+          "title": "",
+          "file": "st-016.json"
+        },
+        {
+          "unit": "статья",
+          "number": "17",
+          "title": "",
+          "file": "st-017.json"
+        },
+        {
+          "unit": "статья",
+          "number": "18",
+          "title": "",
+          "file": "st-018.json"
+        },
+        {
+          "unit": "статья",
+          "number": "19",
+          "title": "",
+          "file": "st-019.json"
+        },
+        {
+          "unit": "статья",
+          "number": "20",
+          "title": "",
+          "file": "st-020.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IV",
+      "title": "ВЗАИМООТНОШЕНИЯ БАНКА РОССИИ С ОРГАНАМИ ГОСУДАРСТВЕННОЙ ВЛАСТИ И ОРГАНАМИ МЕСТНОГО САМОУПРАВЛЕНИЯ",
+      "heading": "ГЛАВА IV. ВЗАИМООТНОШЕНИЯ БАНКА РОССИИ С ОРГАНАМИ ГОСУДАРСТВЕННОЙ ВЛАСТИ И ОРГАНАМИ МЕСТНОГО САМОУПРАВЛЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "21",
+          "title": "",
+          "file": "st-021.json"
+        },
+        {
+          "unit": "статья",
+          "number": "22",
+          "title": "",
+          "file": "st-022.json"
+        },
+        {
+          "unit": "статья",
+          "number": "23",
+          "title": "",
+          "file": "st-023.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "V",
+      "title": "ОТЧЕТНОСТЬ БАНКА РОССИИ",
+      "heading": "ГЛАВА V. ОТЧЕТНОСТЬ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "24",
+          "title": "",
+          "file": "st-024.json"
+        },
+        {
+          "unit": "статья",
+          "number": "25",
+          "title": "",
+          "file": "st-025.json"
+        },
+        {
+          "unit": "статья",
+          "number": "26",
+          "title": "",
+          "file": "st-026.json"
+        },
+        {
+          "unit": "статья",
+          "number": "26.1",
+          "title": "",
+          "file": "st-026-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "26.2",
+          "title": "",
+          "file": "st-026-2.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VI",
+      "title": "ОРГАНИЗАЦИЯ НАЛИЧНОГО ДЕНЕЖНОГО ОБРАЩЕНИЯ",
+      "heading": "ГЛАВА VI. ОРГАНИЗАЦИЯ НАЛИЧНОГО ДЕНЕЖНОГО ОБРАЩЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "27",
+          "title": "",
+          "file": "st-027.json"
+        },
+        {
+          "unit": "статья",
+          "number": "28",
+          "title": "",
+          "file": "st-028.json"
+        },
+        {
+          "unit": "статья",
+          "number": "29",
+          "title": "",
+          "file": "st-029.json"
+        },
+        {
+          "unit": "статья",
+          "number": "30",
+          "title": "",
+          "file": "st-030.json"
+        },
+        {
+          "unit": "статья",
+          "number": "31",
+          "title": "",
+          "file": "st-031.json"
+        },
+        {
+          "unit": "статья",
+          "number": "32",
+          "title": "",
+          "file": "st-032.json"
+        },
+        {
+          "unit": "статья",
+          "number": "33",
+          "title": "",
+          "file": "st-033.json"
+        },
+        {
+          "unit": "статья",
+          "number": "34",
+          "title": "",
+          "file": "st-034.json"
+        },
+        {
+          "unit": "статья",
+          "number": "34.1",
+          "title": "",
+          "file": "st-034-1.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VII",
+      "title": "ДЕНЕЖНО-КРЕДИТНАЯ ПОЛИТИКА",
+      "heading": "ГЛАВА VII. ДЕНЕЖНО-КРЕДИТНАЯ ПОЛИТИКА",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "35",
+          "title": "",
+          "file": "st-035.json"
+        },
+        {
+          "unit": "статья",
+          "number": "36",
+          "title": "",
+          "file": "st-036.json"
+        },
+        {
+          "unit": "статья",
+          "number": "37",
+          "title": "",
+          "file": "st-037.json"
+        },
+        {
+          "unit": "статья",
+          "number": "38",
+          "title": "",
+          "file": "st-038.json"
+        },
+        {
+          "unit": "статья",
+          "number": "39",
+          "title": "",
+          "file": "st-039.json"
+        },
+        {
+          "unit": "статья",
+          "number": "40",
+          "title": "",
+          "file": "st-040.json"
+        },
+        {
+          "unit": "статья",
+          "number": "41",
+          "title": "",
+          "file": "st-041.json"
+        },
+        {
+          "unit": "статья",
+          "number": "42",
+          "title": "",
+          "file": "st-042.json"
+        },
+        {
+          "unit": "статья",
+          "number": "43",
+          "title": "",
+          "file": "st-043.json"
+        },
+        {
+          "unit": "статья",
+          "number": "44",
+          "title": "",
+          "file": "st-044.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45",
+          "title": "",
+          "file": "st-045.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VII",
+      "title": "1. РАЗВИТИЕ ФИНАНСОВОГО РЫНКА РОССИЙСКОЙ ФЕДЕРАЦИИ И ОБЕСПЕЧЕНИЕ СТАБИЛЬНОСТИ ЕГО ФУНКЦИОНИРОВАНИЯ",
+      "heading": "Глава VII1. РАЗВИТИЕ ФИНАНСОВОГО РЫНКА РОССИЙСКОЙ ФЕДЕРАЦИИ И ОБЕСПЕЧЕНИЕ СТАБИЛЬНОСТИ ЕГО ФУНКЦИОНИРОВАНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "45.1",
+          "title": "",
+          "file": "st-045-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45.2",
+          "title": "",
+          "file": "st-045-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45.3",
+          "title": "",
+          "file": "st-045-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45.4",
+          "title": "",
+          "file": "st-045-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45.5",
+          "title": "",
+          "file": "st-045-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "45.6",
+          "title": "",
+          "file": "st-045-6.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "VIII",
+      "title": "БАНКОВСКИЕ ОПЕРАЦИИ, СДЕЛКИ И УСЛУГИ БАНКА РОССИИ",
+      "heading": "ГЛАВА VIII. БАНКОВСКИЕ ОПЕРАЦИИ, СДЕЛКИ И УСЛУГИ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "46",
+          "title": "",
+          "file": "st-046.json"
+        },
+        {
+          "unit": "статья",
+          "number": "46.1",
+          "title": "",
+          "file": "st-046-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "47",
+          "title": "",
+          "file": "st-047.json"
+        },
+        {
+          "unit": "статья",
+          "number": "48",
+          "title": "",
+          "file": "st-048.json"
+        },
+        {
+          "unit": "статья",
+          "number": "49",
+          "title": "",
+          "file": "st-049.json"
+        },
+        {
+          "unit": "статья",
+          "number": "50",
+          "title": "",
+          "file": "st-050.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IX",
+      "title": "МЕЖДУНАРОДНАЯ И ВНЕШНЕЭКОНОМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ БАНКА РОССИИ",
+      "heading": "ГЛАВА IX. МЕЖДУНАРОДНАЯ И ВНЕШНЕЭКОНОМИЧЕСКАЯ ДЕЯТЕЛЬНОСТЬ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "51",
+          "title": "",
+          "file": "st-051.json"
+        },
+        {
+          "unit": "статья",
+          "number": "51.1",
+          "title": "",
+          "file": "st-051-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "51.2",
+          "title": "",
+          "file": "st-051-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "51.3",
+          "title": "",
+          "file": "st-051-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "52",
+          "title": "",
+          "file": "st-052.json"
+        },
+        {
+          "unit": "статья",
+          "number": "53",
+          "title": "",
+          "file": "st-053.json"
+        },
+        {
+          "unit": "статья",
+          "number": "54",
+          "title": "",
+          "file": "st-054.json"
+        },
+        {
+          "unit": "статья",
+          "number": "55",
+          "title": "",
+          "file": "st-055.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "X",
+      "title": "БАНКОВСКОЕ РЕГУЛИРОВАНИЕ И БАНКОВСКИЙ НАДЗОР",
+      "heading": "ГЛАВА X. БАНКОВСКОЕ РЕГУЛИРОВАНИЕ И БАНКОВСКИЙ НАДЗОР",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "56",
+          "title": "",
+          "file": "st-056.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57",
+          "title": "",
+          "file": "st-057.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.1",
+          "title": "",
+          "file": "st-057-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.2",
+          "title": "",
+          "file": "st-057-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.3",
+          "title": "",
+          "file": "st-057-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.4",
+          "title": "",
+          "file": "st-057-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.5",
+          "title": "",
+          "file": "st-057-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "575-1",
+          "title": "",
+          "file": "st-575-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "575-2",
+          "title": "",
+          "file": "st-575-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "57.6",
+          "title": "",
+          "file": "st-057-6.json"
+        },
+        {
+          "unit": "статья",
+          "number": "58",
+          "title": "",
+          "file": "st-058.json"
+        },
+        {
+          "unit": "статья",
+          "number": "59",
+          "title": "",
+          "file": "st-059.json"
+        },
+        {
+          "unit": "статья",
+          "number": "60",
+          "title": "",
+          "file": "st-060.json"
+        },
+        {
+          "unit": "статья",
+          "number": "60.1",
+          "title": "",
+          "file": "st-060-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "60.2",
+          "title": "",
+          "file": "st-060-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "61",
+          "title": "",
+          "file": "st-061.json"
+        },
+        {
+          "unit": "статья",
+          "number": "61.1",
+          "title": "",
+          "file": "st-061-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "62",
+          "title": "",
+          "file": "st-062.json"
+        },
+        {
+          "unit": "статья",
+          "number": "62.1",
+          "title": "",
+          "file": "st-062-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "621-1",
+          "title": "",
+          "file": "st-621-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "62.2",
+          "title": "",
+          "file": "st-062-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "62.3",
+          "title": "",
+          "file": "st-062-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "63",
+          "title": "",
+          "file": "st-063.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "64",
+          "title": "",
+          "file": "st-064.json"
+        },
+        {
+          "unit": "статья",
+          "number": "64.1",
+          "title": "",
+          "file": "st-064-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "65",
+          "title": "",
+          "file": "st-065.json"
+        },
+        {
+          "unit": "статья",
+          "number": "66",
+          "title": "",
+          "file": "st-066.json"
+        },
+        {
+          "unit": "статья",
+          "number": "67",
+          "title": "",
+          "file": "st-067.json"
+        },
+        {
+          "unit": "статья",
+          "number": "68",
+          "title": "",
+          "file": "st-068.json"
+        },
+        {
+          "unit": "статья",
+          "number": "69",
+          "title": "",
+          "file": "st-069.json"
+        },
+        {
+          "unit": "статья",
+          "number": "70",
+          "title": "",
+          "file": "st-070.json"
+        },
+        {
+          "unit": "статья",
+          "number": "71",
+          "title": "",
+          "file": "st-071.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "71.1",
+          "title": "",
+          "file": "st-071-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "72",
+          "title": "",
+          "file": "st-072.json"
+        },
+        {
+          "unit": "статья",
+          "number": "72.1",
+          "title": "",
+          "file": "st-072-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "73",
+          "title": "",
+          "file": "st-073.json"
+        },
+        {
+          "unit": "статья",
+          "number": "73.1",
+          "title": "",
+          "file": "st-073-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "731-1",
+          "title": "",
+          "file": "st-731-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "74",
+          "title": "",
+          "file": "st-074.json"
+        },
+        {
+          "unit": "статья",
+          "number": "74.1",
+          "title": "",
+          "file": "st-074-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "74.2",
+          "title": "",
+          "file": "st-074-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "75",
+          "title": "",
+          "file": "st-075.json"
+        },
+        {
+          "unit": "статья",
+          "number": "75.1",
+          "title": "",
+          "file": "st-075-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76",
+          "title": "",
+          "file": "st-076.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "X",
+      "title": "1. РЕГУЛИРОВАНИЕ, КОНТРОЛЬ И НАДЗОР В СФЕРЕ ФИНАНСОВЫХ РЫНКОВ",
+      "heading": "Глава X1. РЕГУЛИРОВАНИЕ, КОНТРОЛЬ И НАДЗОР В СФЕРЕ ФИНАНСОВЫХ РЫНКОВ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "76.1",
+          "title": "",
+          "file": "st-076-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.2",
+          "title": "",
+          "file": "st-076-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.3",
+          "title": "",
+          "file": "st-076-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.4",
+          "title": "",
+          "file": "st-076-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "764-1",
+          "title": "",
+          "file": "st-764-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "764-2",
+          "title": "",
+          "file": "st-764-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "764-3",
+          "title": "",
+          "file": "st-764-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "764-4",
+          "title": "",
+          "file": "st-764-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.5",
+          "title": "",
+          "file": "st-076-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "765-1",
+          "title": "",
+          "file": "st-765-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "765-2",
+          "title": "",
+          "file": "st-765-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "765-3",
+          "title": "",
+          "file": "st-765-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "765-4",
+          "title": "",
+          "file": "st-765-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "765-5",
+          "title": "",
+          "file": "st-765-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.6",
+          "title": "",
+          "file": "st-076-6.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.7",
+          "title": "",
+          "file": "st-076-7.json"
+        },
+        {
+          "unit": "статья",
+          "number": "767-1",
+          "title": "",
+          "file": "st-767-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.8",
+          "title": "",
+          "file": "st-076-8.json"
+        },
+        {
+          "unit": "статья",
+          "number": "768-1",
+          "title": "",
+          "file": "st-768-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.9",
+          "title": "",
+          "file": "st-076-9.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-1",
+          "title": "",
+          "file": "st-769-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-2",
+          "title": "",
+          "file": "st-769-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-3",
+          "title": "",
+          "file": "st-769-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-4",
+          "title": "",
+          "file": "st-769-4.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "X",
+      "title": "1-1. РЕГУЛИРОВАНИЕ, КОНТРОЛЬ И НАДЗОР В СФЕРЕ ОКАЗАНИЯ ПРОФЕССИОНАЛЬНЫХ УСЛУГ НА ФИНАНСОВОМ РЫНКЕ",
+      "heading": "Глава X1-1. РЕГУЛИРОВАНИЕ, КОНТРОЛЬ И НАДЗОР В СФЕРЕ ОКАЗАНИЯ ПРОФЕССИОНАЛЬНЫХ УСЛУГ НА ФИНАНСОВОМ РЫНКЕ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "769-5",
+          "title": "",
+          "file": "st-769-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-6",
+          "title": "",
+          "file": "st-769-6.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-7",
+          "title": "",
+          "file": "st-769-7.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-8",
+          "title": "",
+          "file": "st-769-8.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-9",
+          "title": "",
+          "file": "st-769-9.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-10",
+          "title": "",
+          "file": "st-769-10.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-11",
+          "title": "",
+          "file": "st-769-11.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-12",
+          "title": "",
+          "file": "st-769-12.json"
+        },
+        {
+          "unit": "статья",
+          "number": "769-13",
+          "title": "",
+          "file": "st-769-13.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "X",
+      "title": "2. УПРАВЛЯЮЩАЯ КОМПАНИЯ ФОНДА КОНСОЛИДАЦИИ БАНКОВСКОГО СЕКТОРА",
+      "heading": "Глава X2. УПРАВЛЯЮЩАЯ КОМПАНИЯ ФОНДА КОНСОЛИДАЦИИ БАНКОВСКОГО СЕКТОРА",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "76.10",
+          "title": "",
+          "file": "st-076-10.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.11",
+          "title": "",
+          "file": "st-076-11.json"
+        },
+        {
+          "unit": "статья",
+          "number": "76.12",
+          "title": "",
+          "file": "st-076-12.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XI",
+      "title": "ВЗАИМООТНОШЕНИЯ БАНКА РОССИИ С КРЕДИТНЫМИ ОРГАНИЗАЦИЯМИ, ФИЛИАЛАМИ ИНОСТРАННЫХ БАНКОВ, НЕКРЕДИТНЫМИ ФИНАНСОВЫМИ ОРГАНИЗАЦИЯМИ, ЛИЦАМИ, ОКАЗЫВАЮЩИМИ ПРОФЕССИОНАЛЬНЫЕ УСЛУГИ НА ФИНАНСОВОМ РЫНКЕ, ИХ АССОЦИАЦИЯМИ, СОЮЗАМИ, САМОРЕГУЛИРУЕМЫМИ ОРГАНИЗАЦИЯМИ",
+      "heading": "Глава XI. ВЗАИМООТНОШЕНИЯ БАНКА РОССИИ С КРЕДИТНЫМИ ОРГАНИЗАЦИЯМИ, ФИЛИАЛАМИ ИНОСТРАННЫХ БАНКОВ, НЕКРЕДИТНЫМИ ФИНАНСОВЫМИ ОРГАНИЗАЦИЯМИ, ЛИЦАМИ, ОКАЗЫВАЮЩИМИ ПРОФЕССИОНАЛЬНЫЕ УСЛУГИ НА ФИНАНСОВОМ РЫНКЕ, ИХ АССОЦИАЦИЯМИ, СОЮЗАМИ, САМОРЕГУЛИРУЕМЫМИ ОРГАНИЗАЦИЯМИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "77",
+          "title": "",
+          "file": "st-077.json"
+        },
+        {
+          "unit": "статья",
+          "number": "78",
+          "title": "",
+          "file": "st-078.json"
+        },
+        {
+          "unit": "статья",
+          "number": "79",
+          "title": "",
+          "file": "st-079.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XI",
+      "title": "1. Взаимоотношения Банка России со службой обеспечения деятельности финансового уполномоченного",
+      "heading": "Глава XI1. Взаимоотношения Банка России со службой обеспечения деятельности финансового уполномоченного",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "79.1",
+          "title": "",
+          "file": "st-079-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "79.2",
+          "title": "",
+          "file": "st-079-2.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XI",
+      "title": "2. ПОРЯДОК РАССМОТРЕНИЯ БАНКОМ РОССИИ ОБРАЩЕНИЙ ГРАЖДАН",
+      "heading": "ГЛАВА XI2. ПОРЯДОК РАССМОТРЕНИЯ БАНКОМ РОССИИ ОБРАЩЕНИЙ ГРАЖДАН",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "79.3",
+          "title": "",
+          "file": "st-079-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "79.4",
+          "title": "",
+          "file": "st-079-4.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XII",
+      "title": "",
+      "heading": "ГЛАВА XII.",
+      "status": "утратил силу",
+      "text": "ГЛАВА XII. (Статьи 80 - 82)",
+      "children": []
+    },
+    {
+      "unit": "глава",
+      "number": "XII",
+      "title": "1. ОБЕСПЕЧЕНИЕ СТАБИЛЬНОСТИ И РАЗВИТИЕ НАЦИОНАЛЬНОЙ ПЛАТЕЖНОЙ СИСТЕМЫ",
+      "heading": "ГЛАВА XII1. ОБЕСПЕЧЕНИЕ СТАБИЛЬНОСТИ И РАЗВИТИЕ НАЦИОНАЛЬНОЙ ПЛАТЕЖНОЙ СИСТЕМЫ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "82.1",
+          "title": "",
+          "file": "st-082-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.2",
+          "title": "",
+          "file": "st-082-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.3",
+          "title": "",
+          "file": "st-082-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.4",
+          "title": "",
+          "file": "st-082-4.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.5",
+          "title": "",
+          "file": "st-082-5.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.6",
+          "title": "",
+          "file": "st-082-6.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.7",
+          "title": "",
+          "file": "st-082-7.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.8",
+          "title": "",
+          "file": "st-082-8.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.9",
+          "title": "",
+          "file": "st-082-9.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XII",
+      "title": "2. ОРГАНИЗАЦИЯ И ОБЕСПЕЧЕНИЕ ФУНКЦИОНИРОВАНИЯ ПЛАТФОРМЫ ЦИФРОВОГО РУБЛЯ",
+      "heading": "ГЛАВА XII2. ОРГАНИЗАЦИЯ И ОБЕСПЕЧЕНИЕ ФУНКЦИОНИРОВАНИЯ ПЛАТФОРМЫ ЦИФРОВОГО РУБЛЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "82.10",
+          "title": "",
+          "file": "st-082-10.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.11",
+          "title": "",
+          "file": "st-082-11.json"
+        },
+        {
+          "unit": "статья",
+          "number": "82.12",
+          "title": "",
+          "file": "st-082-12.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XIII",
+      "title": "ПРИНЦИПЫ ОРГАНИЗАЦИИ БАНКА РОССИИ",
+      "heading": "ГЛАВА XIII. ПРИНЦИПЫ ОРГАНИЗАЦИИ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "83",
+          "title": "",
+          "file": "st-083.json"
+        },
+        {
+          "unit": "статья",
+          "number": "83.1",
+          "title": "",
+          "file": "st-083-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "84",
+          "title": "",
+          "file": "st-084.json"
+        },
+        {
+          "unit": "статья",
+          "number": "85",
+          "title": "",
+          "file": "st-085.json"
+        },
+        {
+          "unit": "статья",
+          "number": "86",
+          "title": "",
+          "file": "st-086.json"
+        },
+        {
+          "unit": "статья",
+          "number": "86.1",
+          "title": "",
+          "file": "st-086-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "87",
+          "title": "",
+          "file": "st-087.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XIV",
+      "title": "СЛУЖАЩИЕ БАНКА РОССИИ",
+      "heading": "ГЛАВА XIV. СЛУЖАЩИЕ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "88",
+          "title": "",
+          "file": "st-088.json"
+        },
+        {
+          "unit": "статья",
+          "number": "89",
+          "title": "",
+          "file": "st-089.json"
+        },
+        {
+          "unit": "статья",
+          "number": "90",
+          "title": "",
+          "file": "st-090.json"
+        },
+        {
+          "unit": "статья",
+          "number": "90.1",
+          "title": "",
+          "file": "st-090-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "91",
+          "title": "",
+          "file": "st-091.json"
+        },
+        {
+          "unit": "статья",
+          "number": "92",
+          "title": "",
+          "file": "st-092.json"
+        },
+        {
+          "unit": "статья",
+          "number": "92.1",
+          "title": "",
+          "file": "st-092-1.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XV",
+      "title": "АУДИТ ОТЧЕТНОСТИ БАНКА РОССИИ",
+      "heading": "ГЛАВА XV. АУДИТ ОТЧЕТНОСТИ БАНКА РОССИИ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "93",
+          "title": "",
+          "file": "st-093.json"
+        },
+        {
+          "unit": "статья",
+          "number": "94",
+          "title": "",
+          "file": "st-094.json"
+        },
+        {
+          "unit": "статья",
+          "number": "95",
+          "title": "",
+          "file": "st-095.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "XVI",
+      "title": "ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+      "heading": "ГЛАВА XVI. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "96",
+          "title": "",
+          "file": "st-096.json"
+        },
+        {
+          "unit": "статья",
+          "number": "97.",
+          "title": "",
+          "file": "st-97.json"
+        },
+        {
+          "unit": "статья",
+          "number": "98",
+          "title": "",
+          "file": "st-098.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "99",
+          "title": "",
+          "file": "st-099.json"
+        }
+      ]
+    }
+  ]
+}

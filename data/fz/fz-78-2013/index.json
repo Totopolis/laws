@@ -1,0 +1,96 @@
+{
+  "code": "Об уполномоченных по защите прав предпринимателей в Российской Федерации",
+  "slug": "fz-78-2013",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "78-ФЗ",
+  "act_date": "2013-05-07",
+  "base_act": "Федеральный закон от 07.05.2013 № 78-ФЗ",
+  "redaction_date": "2026-06-26",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=01a2d33168b3a7a8ab6c1afb83ca9bf3cf60c4181d35ec58d44418705a8dbf7e&ttl=1",
+  "source_file": "sources/fz/fz-78-2013.html",
+  "articles_total": 11,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "Об уполномоченных по защите прав предпринимателей в Российской Федерации",
+    "Принят Государственной Думой 26 апреля 2013 года",
+    "Одобрен Советом Федерации 27 апреля 2013 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "7 мая 2013 года",
+    "№ 78-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json"
+    }
+  ]
+}

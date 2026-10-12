@@ -1,0 +1,8 @@
+# рантайм поиска: без torch, всё считается на CPU через onnxruntime
+mcp>=2
+lancedb>=0.37
+pyarrow>=17
+numpy>=1.26
+onnxruntime>=1.20
+tokenizers>=0.20
+huggingface_hub>=0.30

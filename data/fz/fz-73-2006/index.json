@@ -1,0 +1,201 @@
+{
+  "code": "О введении в действие Водного кодекса Российской Федерации",
+  "slug": "fz-73-2006",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "73-ФЗ",
+  "act_date": "2006-06-03",
+  "base_act": "Федеральный закон от 03.06.2006 № 73-ФЗ",
+  "redaction_date": "2025-03-01",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=87b8d83959b9b1b0d66ee9c86fda63ce0e8f9d707dc8134f5382d80dd8ed3736&ttl=1",
+  "source_file": "sources/fz/fz-73-2006.html",
+  "articles_total": 28,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О введении в действие Водного кодекса Российской Федерации",
+    "Принят Государственной Думой 12 апреля 2006 года",
+    "Одобрен Советом Федерации 26 мая 2006 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации В.Путин",
+    "Москва, Кремль",
+    "3 июня 2006 года",
+    "№ 73-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.1",
+      "title": "",
+      "file": "st-006-1.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.2",
+      "title": "",
+      "file": "st-006-2.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.3",
+      "title": "",
+      "file": "st-006-3.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.4",
+      "title": "",
+      "file": "st-006-4.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "6.5",
+      "title": "",
+      "file": "st-006-5.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.6",
+      "title": "",
+      "file": "st-006-6.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6.7",
+      "title": "",
+      "file": "st-006-7.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json",
+      "status": "утратила силу"
+    },
+    {
+      "unit": "статья",
+      "number": "12",
+      "title": "",
+      "file": "st-012.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13",
+      "title": "",
+      "file": "st-013.json"
+    },
+    {
+      "unit": "статья",
+      "number": "14",
+      "title": "",
+      "file": "st-014.json"
+    },
+    {
+      "unit": "статья",
+      "number": "15",
+      "title": "",
+      "file": "st-015.json"
+    },
+    {
+      "unit": "статья",
+      "number": "16",
+      "title": "",
+      "file": "st-016.json"
+    },
+    {
+      "unit": "статья",
+      "number": "17",
+      "title": "",
+      "file": "st-017.json"
+    },
+    {
+      "unit": "статья",
+      "number": "18",
+      "title": "",
+      "file": "st-018.json"
+    },
+    {
+      "unit": "статья",
+      "number": "19",
+      "title": "",
+      "file": "st-019.json"
+    },
+    {
+      "unit": "статья",
+      "number": "20",
+      "title": "",
+      "file": "st-020.json"
+    },
+    {
+      "unit": "статья",
+      "number": "21",
+      "title": "",
+      "file": "st-021.json"
+    }
+  ]
+}

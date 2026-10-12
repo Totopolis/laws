@@ -1,0 +1,121 @@
+{
+  "code": "О проведении эксперимента по налогообложению недвижимости в городах Великом Новгороде и Твери",
+  "slug": "fz-110-1997",
+  "kind": "fz",
+  "act_kind": "Федеральный закон",
+  "act_number": "110-ФЗ",
+  "act_date": "1997-07-20",
+  "base_act": "Федеральный закон от 20.07.1997 № 110-ФЗ",
+  "redaction_date": "2004-07-28",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=a6fd8ffe75a2685a0c41c7ff3a76cfb610dd8036fb344f09eba0146fa20dcbd1&ttl=1",
+  "source_file": "sources/fz/fz-110-1997.html",
+  "articles_total": 15,
+  "preamble": [
+    "РОССИЙСКАЯ ФЕДЕРАЦИЯ",
+    "ФЕДЕРАЛЬНЫЙ ЗАКОН",
+    "О проведении эксперимента по налогообложению недвижимости в городах Великом Новгороде и Твери",
+    ")",
+    "Принят Государственной Думой 11 июня 1997 года",
+    "Одобрен Советом Федерации 3 июля 1997 года"
+  ],
+  "content": [],
+  "closing": [
+    "Президент Российской Федерации Б.Ельцин",
+    "Москва, Кремль",
+    "20 июля 1997 года",
+    "№ 110-ФЗ"
+  ],
+  "structure": [
+    {
+      "unit": "статья",
+      "number": "1",
+      "title": "",
+      "file": "st-001.json"
+    },
+    {
+      "unit": "статья",
+      "number": "2",
+      "title": "",
+      "file": "st-002.json"
+    },
+    {
+      "unit": "статья",
+      "number": "3",
+      "title": "",
+      "file": "st-003.json"
+    },
+    {
+      "unit": "статья",
+      "number": "4",
+      "title": "",
+      "file": "st-004.json"
+    },
+    {
+      "unit": "статья",
+      "number": "5",
+      "title": "",
+      "file": "st-005.json"
+    },
+    {
+      "unit": "статья",
+      "number": "6",
+      "title": "",
+      "file": "st-006.json"
+    },
+    {
+      "unit": "статья",
+      "number": "7",
+      "title": "",
+      "file": "st-007.json"
+    },
+    {
+      "unit": "статья",
+      "number": "8",
+      "title": "",
+      "file": "st-008.json"
+    },
+    {
+      "unit": "статья",
+      "number": "9",
+      "title": "",
+      "file": "st-009.json"
+    },
+    {
+      "unit": "статья",
+      "number": "10",
+      "title": "",
+      "file": "st-010.json"
+    },
+    {
+      "unit": "статья",
+      "number": "11",
+      "title": "",
+      "file": "st-011.json"
+    },
+    {
+      "unit": "статья",
+      "number": "12",
+      "title": "",
+      "file": "st-012.json"
+    },
+    {
+      "unit": "статья",
+      "number": "13",
+      "title": "",
+      "file": "st-013.json"
+    },
+    {
+      "unit": "статья",
+      "number": "14",
+      "title": "",
+      "file": "st-014.json"
+    },
+    {
+      "unit": "статья",
+      "number": "15",
+      "title": "",
+      "file": "st-015.json"
+    }
+  ]
+}

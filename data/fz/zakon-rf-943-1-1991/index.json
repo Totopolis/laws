@@ -1,0 +1,213 @@
+{
+  "code": "О налоговых органах Российской Федерации",
+  "slug": "zakon-rf-943-1-1991",
+  "kind": "fz",
+  "act_kind": "Закон Российской Федерации",
+  "act_number": "943-I",
+  "act_date": "1991-03-21",
+  "base_act": "Закон Российской Федерации от 21.03.1991 № 943-I",
+  "redaction_date": "2026-01-01",
+  "redaction_status": "актуальная",
+  "source_url": "http://actual.pravo.gov.ru/content/content.html#hash=e2f38a8d509d816e67a4771e2bb1df031d6bb6e059f9f57394f8fe9f6558f26b&ttl=1",
+  "source_file": "sources/fz/zakon-rf-943-1-1991.html",
+  "articles_total": 25,
+  "preamble": [
+    "ЗАКОН",
+    "РОССИЙСКОЙ ФЕДЕРАЦИИ",
+    "О налоговых органах Российской Федерации"
+  ],
+  "content": [],
+  "closing": [
+    "Председатель Верховного Совета РСФСР Б.Н.Ельцин",
+    "Москва, Дом Советов РСФСР",
+    "21 марта 1991 года",
+    "№ 943-I"
+  ],
+  "structure": [
+    {
+      "unit": "глава",
+      "number": "I",
+      "title": "ОБЩИЕ ПОЛОЖЕНИЯ",
+      "heading": "Глава I ОБЩИЕ ПОЛОЖЕНИЯ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "1",
+          "title": "",
+          "file": "st-001.json"
+        },
+        {
+          "unit": "статья",
+          "number": "2",
+          "title": "",
+          "file": "st-002.json"
+        },
+        {
+          "unit": "статья",
+          "number": "3",
+          "title": "",
+          "file": "st-003.json"
+        },
+        {
+          "unit": "статья",
+          "number": "4",
+          "title": "",
+          "file": "st-004.json"
+        },
+        {
+          "unit": "статья",
+          "number": "5",
+          "title": "",
+          "file": "st-005.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "II",
+      "title": "ЗАДАЧИ, ПРАВА И ОБЯЗАННОСТИ НАЛОГОВЫХ ОРГАНОВ",
+      "heading": "Глава II ЗАДАЧИ, ПРАВА И ОБЯЗАННОСТИ НАЛОГОВЫХ ОРГАНОВ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "6",
+          "title": "",
+          "file": "st-006.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6.1",
+          "title": "",
+          "file": "st-006-1.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "6.2",
+          "title": "",
+          "file": "st-006-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "6.3",
+          "title": "",
+          "file": "st-006-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7",
+          "title": "",
+          "file": "st-007.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7.1",
+          "title": "",
+          "file": "st-007-1.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7.2",
+          "title": "",
+          "file": "st-007-2.json"
+        },
+        {
+          "unit": "статья",
+          "number": "7.3",
+          "title": "",
+          "file": "st-007-3.json"
+        },
+        {
+          "unit": "статья",
+          "number": "8",
+          "title": "",
+          "file": "st-008.json"
+        },
+        {
+          "unit": "статья",
+          "number": "9",
+          "title": "",
+          "file": "st-009.json"
+        },
+        {
+          "unit": "статья",
+          "number": "10",
+          "title": "",
+          "file": "st-010.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "III",
+      "title": "ОТВЕТСТВЕННОСТЬ НАЛОГОВЫХ ОРГАНОВ",
+      "heading": "Глава III ОТВЕТСТВЕННОСТЬ НАЛОГОВЫХ ОРГАНОВ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "11",
+          "title": "",
+          "file": "st-011.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "12",
+          "title": "",
+          "file": "st-012.json"
+        },
+        {
+          "unit": "статья",
+          "number": "13",
+          "title": "",
+          "file": "st-013.json",
+          "status": "утратила силу"
+        },
+        {
+          "unit": "статья",
+          "number": "14",
+          "title": "",
+          "file": "st-014.json"
+        }
+      ]
+    },
+    {
+      "unit": "глава",
+      "number": "IV",
+      "title": "ИНЫЕ ВОПРОСЫ ДЕЯТЕЛЬНОСТИ НАЛОГОВЫХ ОРГАНОВ",
+      "heading": "Глава IV ИНЫЕ ВОПРОСЫ ДЕЯТЕЛЬНОСТИ НАЛОГОВЫХ ОРГАНОВ",
+      "children": [
+        {
+          "unit": "статья",
+          "number": "15",
+          "title": "",
+          "file": "st-015.json"
+        },
+        {
+          "unit": "статья",
+          "number": "16",
+          "title": "",
+          "file": "st-016.json"
+        },
+        {
+          "unit": "статья",
+          "number": "17",
+          "title": "",
+          "file": "st-017.json"
+        },
+        {
+          "unit": "статья",
+          "number": "18",
+          "title": "",
+          "file": "st-018.json"
+        },
+        {
+          "unit": "статья",
+          "number": "19",
+          "title": "",
+          "file": "st-019.json"
+        }
+      ]
+    }
+  ]
+}

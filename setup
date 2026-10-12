@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+# ./setup            — проверить, что установлено, ничего не меняя
+# ./setup --install  — поставить зависимости и скачать модели (~2,8 ГБ)
+cd "$(dirname "$0")" || exit 1
+PYTHONPATH=src LAWS_ROOT=. exec .venv/bin/python -m laws_mcp.setup_check "$@"
